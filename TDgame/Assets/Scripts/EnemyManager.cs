@@ -1,4 +1,5 @@
 using NUnit.Framework;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -40,13 +41,13 @@ public class EnemyManager : MonoBehaviour
     void Awake()
     {
         main = this;
-
+        SetWave();
     }
 
     // Update is called once per frame
     void Update()
     {
-        SetWave();
+        
     }
 
     private void SetWave()

@@ -8163,12 +8163,12 @@ MonoBehaviour:
   - {fileID: 1389335350}
   - {fileID: 397397761}
   - {fileID: 87341356}
-  spawnPoint: {fileID: 0}
-  TotalCount: 6
-  enemy: {fileID: 0}
-  enemy1: {fileID: 0}
-  enemy2: {fileID: 0}
-  enemy3: {fileID: 0}
+  spawnPoint: {fileID: 2029313837}
+  totalCount: 6
+  enemy: {fileID: 1508771825043018816, guid: 6a2ed3920172a47429764578e16a64db, type: 3}
+  enemy1: {fileID: 1799994068977481391, guid: 43b7cf39392f1674b9543a04a9932b15, type: 3}
+  enemy2: {fileID: 2627205711192708191, guid: 6f725d6b4858bc04c962e2d5d82bec71, type: 3}
+  enemy3: {fileID: 4927065526196526432, guid: 3280249b14dddca4fa4b4f9aff95d1d7, type: 3}
   enemyRate: 0.5
   enemy1Rate: 0.4
   enemy2Rate: 0.3
